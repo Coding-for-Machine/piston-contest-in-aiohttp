@@ -1,0 +1,11 @@
+aiohappyeyeballs==2.6.2
+aiohttp==3.14.0
+aiosignal==1.4.0
+attrs==26.1.0
+frozenlist==1.8.0
+idna==3.18
+multidict==6.7.1
+propcache==0.5.2
+PyJWT==2.13.0
+python-decouple==3.8
+yarl==1.24.2
